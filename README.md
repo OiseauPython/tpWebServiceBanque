@@ -7,7 +7,7 @@
 
 3) GET `http://localhost:3000/api/protected` 
 
-4) Essayer POST `http://localhost:3000/api/login/user` with the following body
+4) Essayer POST `http://localhost:3000/api/login/user` avec ce body :
 ``
 {
 "username": "username",
